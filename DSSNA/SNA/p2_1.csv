@@ -1,0 +1,5 @@
+Person1, Person2, Person3, Person4
+Person1, 0, 1, 1, 0
+Person2, 1, 0, 1, 1
+Person3, 1, 1, 0, 1
+Person4, 0, 1, 1, 0
