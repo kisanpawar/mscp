@@ -1,0 +1,22 @@
+{
+    "data" : {
+        "records" : [
+            {
+                "timestamp" : 1617561600,
+                "user" : {
+                    "id" : 1,
+                    "name" : "Alice"
+                },
+                "message" : "Hello, World!"
+            },
+            {
+                "timestamp" : 1617648000,
+                "user" : {
+                    "id" : 2,
+                    "name" : "Bob"
+                },
+                "message" : "Hi, there!"
+            }
+        ]
+    }
+}
