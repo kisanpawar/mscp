@@ -1,0 +1,20 @@
+@relation customer_spending
+
+@attribute customer_id NUMERIC
+@attribute age NUMERIC
+@attribute income NUMERIC
+@attribute spending_score NUMERIC
+@attribute visits_per_month NUMERIC
+@attribute category {Low, Medium, High}
+
+@data
+1, 25, 30000, 70, 5, High
+2, 45, 50000, 50, 3, Medium
+3, 23, 25000, 85, 6, High
+4, 35, 40000, 60, 4, Medium
+5, 50, 60000, 40, 2, Low
+6, 30, 35000, 75, 5, High
+7, 42, 48000, 55, 3, Medium
+8, 28, 28000, 80, 6, High
+9, 55, 70000, 30, 1, Low
+10, 38, 42000, 65, 4, Medium
